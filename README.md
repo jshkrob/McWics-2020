@@ -9,6 +9,7 @@ To connect Arduino and python code via pyserial:
 --> pip install pyserial
 
 - Configure pyserial
+
 --> go in python file
 --> insert the following code at the beginning, COMx being the serial port connecting your computer to Arduino
   --> Import serial
